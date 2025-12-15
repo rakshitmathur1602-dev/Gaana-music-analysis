@@ -79,8 +79,4 @@ The analysis provides insights into music catalog trends such as dominant langua
 frequently featured artists, and standard song durations.  
 These insights can help music platforms optimize content strategy and playlist curation.
 
----
-
-## 👤 Author
-Your Name
 
